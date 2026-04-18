@@ -4,10 +4,11 @@
 
 ## Team
 
-| Name | School |
-|------|--------|
-| Gabriel Baraban | — |
-| Hedi Fourati | École Polytechnique |
+| Name             | School                 |
+|------------------|------------------------|
+| Gabriel Baraban  | École Polytechnique    |
+| Hedi Fourati     | École Polytechnique    |
+| Louis Moncla     | École Polytechnique    |
 
 ## Competition Structure
 
